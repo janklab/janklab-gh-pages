@@ -30,6 +30,10 @@ All the Janklab libraries are licensed under the business-friendly Apache or BSD
 
 The various Janklab libraries have dependencies on and are bundled with various other open source libraries. See individual library documentation for details.
 
+## More Documentation
+
+* [FAQ](FAQ.html)
+
 ## Development and Support
 
 Janklab development is hosted [on GitHub](https://github.com/janklab). You can file bug reports or feature requests as issues on the library-specific GitHub repo.
