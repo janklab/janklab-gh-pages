@@ -40,7 +40,7 @@ Janklab development is hosted [on GitHub](https://github.com/janklab). You can f
 
 Everything in Janklab is in either the experimental or beta stage of development. Use caution!
 
-Support for Janklab is free, and is on an as-available/best-effort/if-I-feel-like-it basis.
+Support for Janklab is free, and is on an as-available/best-effort/if-I-feel-like-it basis. You might also try dropping by [the Matlab Discord](https://discord.gg/bBMbNCT), where I and several other Matlab experts hang out; it's a great place to get Matlab help.
 
 Lots of Janklab is built on other open source projects, and a lot of it takes the form of Matlab binding layers for FLOSS libraries in other languages. Thanks to all the other FLOSS developers out there!
 
