@@ -1,4 +1,7 @@
-# Janklab FAQ
+---
+title: Janklab FAQ
+layout: default
+---
 
 ## Does Janklab support GNU Octave?
 
