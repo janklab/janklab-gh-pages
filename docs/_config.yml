@@ -4,10 +4,10 @@ description: Nice programming libraries for Matlab
 theme: jekyll-theme-cayman
 
 github_username: janklab
-
-markdown: kramdown
+google_analytics: G-B6G2FLSWGL
 
 # Fixed GitHub Pages configuration
+markdown: kramdown
 lsi: false
 safe: true
 incremental: false
