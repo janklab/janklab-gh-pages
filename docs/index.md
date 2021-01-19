@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+# Janklab
 
-You can use the [editor on GitHub](https://github.com/janklab/janklab-gh-pages/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Janklab is a suite of free and open source programming libraries for [Matlab](https://www.mathworks.com/products/matlab.html). It contains general-purpose programming utilities, advanced HTML email generation, and more.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Janklab is written from the perspective of a software developer with a background in more mainstream programming languages, but some parts of it are intended for easy use by typical Matlab users.
 
-### Markdown
+Janklab is a project of [Andrew Janke](https://apjanke.net).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## License
 
-```markdown
-Syntax highlighted code block
+All the Janklab libraries are licensed under the business-friendly Apache or BSD 2-Clause licenses. It's fine to use Janklab in commercial or proprietary software.
 
-# Header 1
-## Header 2
-### Header 3
+## Component Libraries
 
-- Bulleted
-- List
+* [**Janklab**](https://github.com/janklab/janklab) – The core Janklab library is a collection of various utilities and APIs, and represents Andrew's accumulation of a base "core Matlab environment" for doing nontrivial programming. It includes:
+  * additional date/time classes
+  * MDBC, a powerful and high-performance Database Toolbox extension layer
+  * an API for Excel I/O (that doesn't require Excel to be installed!)
+  * a bunch of miscellaneous stuff
+* [**SLF4M**](https://github.com/janklab/SLF4M) – A simple but powerful logging framework for Matlab, like Java's [SLF4J](http://www.slf4j.org/).
+* [**MCodeNavigator**](https://github.com/janklab/MCodeNavigator) – A code-structure-aware GUI browser for Matlab source code, like many IDEs have.
+* [**MailSpoon**](https://mailspoon.janklab.net) – Sophisticated HTML email generation in Matlab.
+* [**MatlabProjectTemplate**](https://github.com/janklab/MatlabProjectTemplate) – A template for creating Good source code layouts for Matlab software development projects.
+* [**matlab-bench**](https://github.com/janklab/matlab-bench) – The Matlab OOP benchmark behind [that one "Is Matlab OOP Slow?" Stack Overflow answer](https://stackoverflow.com/questions/1693429/is-matlab-oop-slow-or-am-i-doing-something-wrong#:~:text=The%20short%20answer%20is%3A%20yes,you%20can%20).
+* [**Matlab-JUMP**](https://github.com/janklab/matlab-jump) – A little dependency-management tool for writing custom Java code for use in a Matlab environment.
+* [**matlab-jarext-inspector**](https://github.com/janklab/matlab-jarext-inspector) – Shows you what Java JARs Matlab is bundling.
 
-1. Numbered
-2. List
+The various Janklab libraries have dependencies on and are bundled with various other open source libraries. See individual library documentation for details.
 
-**Bold** and _Italic_ and `Code` text
+## Development and Support
 
-[Link](url) and ![Image](src)
-```
+Janklab development is hosted [on GitHub](https://github.com/janklab). You can file bug reports or feature requests as issues on the library-specific GitHub repo.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Everything in Janklab is in either the experimental or beta stage of development. Use caution!
 
-### Jekyll Themes
+Support for Janklab is free, and is on an as-available/best-effort/if-I-feel-like-it basis.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/janklab/janklab-gh-pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Lots of Janklab is built on other open source projects, and a lot of it takes the form of Matlab binding layers for FLOSS libraries in other languages. Thanks to all the other FLOSS developers out there!
 
-### Support or Contact
+## History
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I spent about ten years building Matlab platforms in the financial sector, with a focus on data analysis, "productionization", and integrating Matlab with other systems and languages. During that time I developed some strong opinions about what you needed to add to Matlab to make it a decent development environment. And when I had some time off, I decided to Do It Right and build out some utilities based on what I had learned, but with modern Matlab coding practices.
+
+After that, I did some consulting writing Matlab programs for people, and decided to collect all my various utility code in one place, so I didn't have to spend client time rewriting this "base layer" for every project. I open sourced it to formalize the license my clients received this common code under, and to have something of a public portfolio for myself, since all my prior finance work was highly proprietary.
+
+## About Andrew
+
+[Andrew Janke](https://apjanke.net) has about twenty years of industry experience building software platforms, with much of that involving Matlab. He started out in the weather software industry, and then got recruited by a [Citadel Investments](https://www.citadel.com) and spent 15 years in finance, working closely with trading staff to develop analytical and trading platforms.
+
+Andrew is currently Director of Quantitative Systems at [Demex Technologies](https://thedemexgroup.com).
