@@ -5,7 +5,7 @@ layout: default
 
 Janklab is a suite of free and open source programming libraries for [Matlab](https://www.mathworks.com/products/matlab.html). It contains general-purpose programming utilities, advanced HTML email generation, and more.
 
-Janklab is written from the perspective of a software developer with a background in more mainstream programming languages, but some parts of it are intended for easy use by typical Matlab users. Its approach is to try to treat Matlab as a serious programming language, instead of as an interactive calculator.
+Janklab's approach is to try to treat Matlab as a serious programming language, instead of as an interactive calculator. It's written from the perspective of a software developer with a background in more mainstream programming languages, but some parts of it are intended for easy use by typical Matlab users.
 
 Janklab is a project of [Andrew Janke](https://apjanke.net).
 
