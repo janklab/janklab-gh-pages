@@ -15,7 +15,7 @@ All the Janklab libraries are licensed under the business-friendly Apache or BSD
 
 ## Component Libraries
 
-* [**Janklab**](https://github.com/janklab/janklab) – The core Janklab library is a collection of various utilities and APIs, and represents Andrew's accumulation of a base "core Matlab environment" for doing nontrivial programming. It includes:
+* [**Janklab-core**](https://janklab-core.janklab.net) – The core Janklab library is a collection of various utilities and APIs, and represents Andrew's accumulation of a base "core Matlab environment" for doing nontrivial programming. It includes:
   * additional date/time classes
   * MDBC, a powerful and high-performance Database Toolbox extension layer
   * an API for Excel I/O (that doesn't require Excel to be installed!)
