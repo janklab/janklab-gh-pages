@@ -20,7 +20,7 @@ All the Janklab libraries are licensed under the business-friendly Apache or BSD
   * MDBC, a powerful and high-performance Database Toolbox extension layer
   * an API for Excel I/O (that doesn't require Excel to be installed!)
   * a bunch of miscellaneous stuff
-* [**SLF4M**](https://github.com/janklab/SLF4M) – A simple but powerful logging framework for Matlab, like Java's [SLF4J](http://www.slf4j.org/).
+* [**SLF4M**](https://slf4m.janklab.net) – A simple but powerful logging framework for Matlab, like Java's [SLF4J](http://www.slf4j.org/).
 * [**dispstr**](https://dispstr.janklab.net) – A customizable, polymorphic object display API. (That sounds boring, but trust me, it's actually really cool!)
 * [**MCodeNavigator**](https://github.com/janklab/MCodeNavigator) – A code-structure-aware GUI browser for Matlab source code, like many IDEs have.
 * [**MailSpoon**](https://mailspoon.janklab.net) – Sophisticated HTML email generation in Matlab.
