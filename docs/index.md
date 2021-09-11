@@ -25,6 +25,7 @@ All the Janklab libraries are licensed under the business-friendly Apache or BSD
 * [**MCodeNavigator**](https://github.com/janklab/MCodeNavigator) – A code-structure-aware GUI browser for Matlab source code, like many IDEs have.
 * [**MailSpoon**](https://mailspoon.janklab.net) – Sophisticated HTML email generation in Matlab.
 * [**MatlabProjectTemplate**](https://matlabprojecttemplate.janklab.net) – A template for creating Good source code layouts for Matlab software development projects.
+* [**ExportMlx**](https://exportmlx.janklab.net) – Export Matlab Live Scripts to Markdown.
 * [**matlab-bench**](https://github.com/janklab/matlab-bench) – The Matlab OOP benchmark behind [that one "Is Matlab OOP Slow?" Stack Overflow answer](https://stackoverflow.com/a/1745686/105904).
 * [**Matlab-JUMP**](https://github.com/janklab/matlab-jump) – A little dependency-management tool for writing custom Java code for use in a Matlab environment.
 * [**matlab-jarext-inspector**](https://github.com/janklab/matlab-jarext-inspector) – Shows you what Java JARs Matlab is bundling.
