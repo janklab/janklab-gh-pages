@@ -13,6 +13,8 @@ Janklab is a project of [Andrew Janke](https://apjanke.net).
 
 All the Janklab libraries are licensed under the business-friendly Apache or BSD 2-Clause licenses. It's fine to use Janklab in commercial or proprietary software.
 
+(Except for ExportMlx, which uses a special MathWorks-specific BSD License variant. See its web page for details.)
+
 ## Component Libraries
 
 * [**Janklab-core**](https://janklab-core.janklab.net) – The core Janklab library is a collection of various utilities and APIs, and represents Andrew's accumulation of a base "core Matlab environment" for doing nontrivial programming. It includes:
