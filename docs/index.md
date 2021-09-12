@@ -56,6 +56,6 @@ After that, I did some consulting writing Matlab programs for people, and decide
 
 ## About Andrew
 
-[Andrew Janke](https://apjanke.net) has about twenty years of industry experience building software platforms, with much of that involving Matlab. He started out in the weather software industry, and then got recruited by a [Citadel Investments](https://www.citadel.com) and spent 15 years in finance, working closely with trading staff to develop analytical and trading platforms.
+[Andrew Janke](https://apjanke.net) has about twenty years of industry experience building software platforms, with much of that involving Matlab. He started out in the weather software industry, and then got recruited by a [Citadel Investments](https://www.citadel.com) and spent 15 years in finance, working closely with traders and quants to develop analytical and trading platforms.
 
 Andrew is currently Director of Quantitative Systems at [Demex Technologies](https://thedemexgroup.com).
